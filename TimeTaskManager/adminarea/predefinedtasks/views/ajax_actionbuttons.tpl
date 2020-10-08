@@ -1,0 +1,2 @@
+<a class="mgactionbutton btn btn-mini btn-info label" href="javascript:editPredefinedTask({$tid});">{$language->translate('Edit')}</a>
+<a class="mgactionbutton btn btn-mini btn-danger label" href="javascript:deletePredefinedTask({$tid});">{$language->translate('Delete')}</a>

@@ -1,0 +1,57 @@
+table.dataTable tr.even td.sorting_1{
+    background-color: #ffffff !important;
+}
+
+.width300{
+    width:300px !important;
+}
+
+.padding4{
+    padding:4px !important;
+}
+
+div.ui-datepicker{
+    font-size:15px;
+}
+#mg-wrapper input{
+    width:100px;
+}
+.mgdatepick{
+    float: left;
+    display: inline-block;
+    margin-right: 10px;
+
+}
+.mgrecordstable{
+    overflow: hidden;
+}
+.mgrow{
+    margin-bottom: 20px;
+}
+.mgactionbutton{
+    width:60px;
+    text-transform: none;
+    font-size:11px;
+    margin-bottom: 4px !important;
+}
+.mgactionbutton2{
+    width:90px;
+    text-transform: none;
+    font-size:11px;
+    margin-bottom: 4px !important;
+}
+.mgaddactionbutton{
+    width:120px;
+    text-transform: none;
+    font-size:11px;
+    margin-bottom: 4px !important;
+}
+i {font-size: 17px!important;line-height: 20px!important;}
+
+div.dataTables_wrapper div.dataTables_length select {
+    padding: 0px 6px!important;
+}
+
+#mgrecords {
+    width: 100%!important;
+}
